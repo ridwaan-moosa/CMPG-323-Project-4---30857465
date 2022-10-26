@@ -6,5 +6,21 @@
     "UnresolvedTypeFullyQualifiedName": null,
     "Expression": "\"C:\\\\Users\\\\Ridwaan\\\\Desktop\\\\NWU\\\\SEMESTER 2 YEAR 4\\\\CMPG 323\\\\Project 4\\\\Connected Office Test Data.xlsx\"",
     "IsLiteral": false
+  },
+  {
+    "Constant": false,
+    "Name": "strUsername",
+    "TypeFullyQualifiedName": "System.String, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+    "UnresolvedTypeFullyQualifiedName": null,
+    "Expression": null,
+    "IsLiteral": false
+  },
+  {
+    "Constant": false,
+    "Name": "strPassword",
+    "TypeFullyQualifiedName": "System.String, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+    "UnresolvedTypeFullyQualifiedName": null,
+    "Expression": null,
+    "IsLiteral": false
   }
 ]
